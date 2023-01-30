@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/e53c371a-5abe-4b13-8921-a67bdebfb624.svg)](https://wakatime.com/@e53c371a-5abe-4b13-8921-a67bdebfb624)
 
 <!--
 **Voyager101pw/Voyager101pw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
