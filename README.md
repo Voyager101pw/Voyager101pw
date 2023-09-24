@@ -60,6 +60,12 @@
       </a>
       <br>github
     </td>
+   <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>docker
+    </td>
   </tr> 
 </table>
 
@@ -77,6 +83,12 @@
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>rt library
+<td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>storybook
+    </td>
   </tr> 
 </table>
 
@@ -107,13 +119,18 @@
       </a>
       <br>React JS
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
  <td align="center" width="110" height="90">
       <a href="#voyager101pw-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
-   
    <td align="center" width="110" height="90">
       <a href="#voyager101pw-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
@@ -121,7 +138,7 @@
       <br>Bootstrap
     </td>
   </tr> 
-  <tr></tr>
+  <tr>
     <tr>
     <td align="center" width="110" height="90"> 
       <a href="#voyager101pw-stack" >
@@ -140,6 +157,12 @@
         <img src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" width="36" height="36" alt="Styled-components" />
       </a>
       <br>Styled-Components
+    </td>
+<td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
     </td>
   </tr> 
 </table>
